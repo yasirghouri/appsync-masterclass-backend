@@ -1,1 +1,1 @@
-# appsync-masterclass-backend
+# AppSync Masterclass Backend
